@@ -23,9 +23,9 @@ This calculator allows users to perform basic arithmetic operations such as addi
 
 ## Screenshots
 
-[([Screenshot from 2024-03-30 01-12-44](https://github.com/anku2323/Calculator/assets/150881471/39fbf6d1-84ca-4004-bb0d-6a44f2fcc0f7)
+![Screenshot from 2024-03-30 01-12-44](https://github.com/anku2323/Calculator/assets/150881471/fd4c5c9e-d5b1-49b0-a324-41e7a6a2e6b2)
 )
-.
+
 
 ## Demo
 
