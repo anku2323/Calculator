@@ -4,13 +4,13 @@
         }
 
         function fact() {
-            var num = parseInt(display.value);
+           let num = parseInt(display.value);
             if (num < 0) {
                 display.value = 'Error';
                 return;
             }
-            var factorial = 1;
-            for (var i = 1; i <= num; i++) {
+           let factorial = 1;
+            for (let i = 1; i <= num; i++) {
                 factorial *= i;
             }
             display.value = factorial;
@@ -21,8 +21,8 @@
         }
         
         function per() {
-            var num = parseFloat(display.value);
-            if (!isNaN(num)) {
+           let num = parseFloat(display.value);
+            if (!letaN(num)) {
                 display.value = num / 100;
             }
         }
@@ -39,6 +39,6 @@
             document.getElementById('display').value = '';
         }
         function deleteLast() {
-            var display = document.getElementById('display');
-            display.value = display.value.slice(0, -1);
+           let display = document.getElementById('display');
+            displletvalue = display.value.slice(0, -1);
         }
