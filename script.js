@@ -26,6 +26,9 @@
                 display.value = num / 100;
             }
         }
+        function pi() {
+            display.value = Math.PI;
+        }
 
         // Function  calculate the result
         function calculate() {
