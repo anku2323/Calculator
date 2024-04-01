@@ -23,14 +23,12 @@ form .display{
     display: flex;
     height: 100px;
     justify-content: flex-end;
-    margin: 20px 0;
-    
+    margin: 20px 0;  
 }
 form .display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
-    /* box-shadow: ; */
 }
 
 .calculator form input{
