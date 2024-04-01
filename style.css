@@ -13,24 +13,25 @@
     align-items: center;
     justify-content: center;
 }
-
+/* Calcultor */
 .calculator{
     background: #333;
     padding: 20px;
     border-radius: 10px;
 }
+/* Display */
 form .display{
     display: flex;
     height: 100px;
     justify-content: flex-end;
     margin: 20px 0;  
 }
+/* Input */
 form .display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
 }
-
 .calculator form input{
     padding: 0;
     outline: 0;
